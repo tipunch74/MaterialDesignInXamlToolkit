@@ -33,7 +33,7 @@ namespace MaterialDesignColors.WpfExample
             {
                 SelectedTime = new DateTime(2000, 1, 1, 3, 15, 0)
             };
-        }                
+        }        
     }
 
     public class ProvingGroundViewModel : INotifyPropertyChanged
